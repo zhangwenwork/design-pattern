@@ -32,6 +32,3 @@ logs/
 ### VS Code ###
 .vscode/
 
-
-./idea/vcs.xml
-.gradle/**/**/*
