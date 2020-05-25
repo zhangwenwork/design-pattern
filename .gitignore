@@ -1,7 +1,7 @@
 .gradle
 **/build/
 !src/**/build/
-
+.gradle/
 # Ignore Gradle GUI config
 gradle-app.setting
 
@@ -16,7 +16,7 @@ gradle-app.setting
 
 # file: ~/.gitignore_global
 .DS_Store
-.idea
+.idea/
 
 # User-specific stuff
 .idea/**/workspace.xml
